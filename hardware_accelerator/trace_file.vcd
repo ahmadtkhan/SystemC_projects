@@ -1,0 +1,780 @@
+$date
+     Feb 03, 2025       11:00:18
+$end
+
+$version
+              SystemC 2.3.0-ASI --- Sep 10 2012 16:44:06
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$var wire    1  aaa  clk       $end
+$var wire    1  aab  csa_6_7_so       $end
+$var wire    1  aac  csa_6_7_co       $end
+$var wire    1  aad  csa_6_7_s       $end
+$var wire    1  aae  csa_6_7_cin       $end
+$var wire    1  aaf  csa_6_7_b       $end
+$var wire    1  aag  csa_6_7_a       $end
+$var wire    1  aah  csa_6_6_so       $end
+$var wire    1  aai  csa_6_6_co       $end
+$var wire    1  aaj  csa_6_6_s       $end
+$var wire    1  aak  csa_6_6_cin       $end
+$var wire    1  aal  csa_6_6_b       $end
+$var wire    1  aam  csa_6_6_a       $end
+$var wire    1  aan  csa_6_5_so       $end
+$var wire    1  aao  csa_6_5_co       $end
+$var wire    1  aap  csa_6_5_s       $end
+$var wire    1  aaq  csa_6_5_cin       $end
+$var wire    1  aar  csa_6_5_b       $end
+$var wire    1  aas  csa_6_5_a       $end
+$var wire    1  aat  csa_6_4_so       $end
+$var wire    1  aau  csa_6_4_co       $end
+$var wire    1  aav  csa_6_4_s       $end
+$var wire    1  aaw  csa_6_4_cin       $end
+$var wire    1  aax  csa_6_4_b       $end
+$var wire    1  aay  csa_6_4_a       $end
+$var wire    1  aaz  csa_6_3_so       $end
+$var wire    1  aba  csa_6_3_co       $end
+$var wire    1  abb  csa_6_3_s       $end
+$var wire    1  abc  csa_6_3_cin       $end
+$var wire    1  abd  csa_6_3_b       $end
+$var wire    1  abe  csa_6_3_a       $end
+$var wire    1  abf  csa_6_2_so       $end
+$var wire    1  abg  csa_6_2_co       $end
+$var wire    1  abh  csa_6_2_s       $end
+$var wire    1  abi  csa_6_2_cin       $end
+$var wire    1  abj  csa_6_2_b       $end
+$var wire    1  abk  csa_6_2_a       $end
+$var wire    1  abl  csa_6_1_so       $end
+$var wire    1  abm  csa_6_1_co       $end
+$var wire    1  abn  csa_6_1_s       $end
+$var wire    1  abo  csa_6_1_cin       $end
+$var wire    1  abp  csa_6_1_b       $end
+$var wire    1  abq  csa_6_1_a       $end
+$var wire    1  abr  csa_6_0_so       $end
+$var wire    1  abs  csa_6_0_co       $end
+$var wire    1  abt  csa_6_0_s       $end
+$var wire    1  abu  csa_6_0_cin       $end
+$var wire    1  abv  csa_6_0_b       $end
+$var wire    1  abw  csa_6_0_a       $end
+$var wire    1  abx  csa_5_7_so       $end
+$var wire    1  aby  csa_5_7_co       $end
+$var wire    1  abz  csa_5_7_s       $end
+$var wire    1  aca  csa_5_7_cin       $end
+$var wire    1  acb  csa_5_7_b       $end
+$var wire    1  acc  csa_5_7_a       $end
+$var wire    1  acd  csa_5_6_so       $end
+$var wire    1  ace  csa_5_6_co       $end
+$var wire    1  acf  csa_5_6_s       $end
+$var wire    1  acg  csa_5_6_cin       $end
+$var wire    1  ach  csa_5_6_b       $end
+$var wire    1  aci  csa_5_6_a       $end
+$var wire    1  acj  csa_5_5_so       $end
+$var wire    1  ack  csa_5_5_co       $end
+$var wire    1  acl  csa_5_5_s       $end
+$var wire    1  acm  csa_5_5_cin       $end
+$var wire    1  acn  csa_5_5_b       $end
+$var wire    1  aco  csa_5_5_a       $end
+$var wire    1  acp  csa_5_4_so       $end
+$var wire    1  acq  csa_5_4_co       $end
+$var wire    1  acr  csa_5_4_s       $end
+$var wire    1  acs  csa_5_4_cin       $end
+$var wire    1  act  csa_5_4_b       $end
+$var wire    1  acu  csa_5_4_a       $end
+$var wire    1  acv  csa_5_3_so       $end
+$var wire    1  acw  csa_5_3_co       $end
+$var wire    1  acx  csa_5_3_s       $end
+$var wire    1  acy  csa_5_3_cin       $end
+$var wire    1  acz  csa_5_3_b       $end
+$var wire    1  ada  csa_5_3_a       $end
+$var wire    1  adb  csa_5_2_so       $end
+$var wire    1  adc  csa_5_2_co       $end
+$var wire    1  add  csa_5_2_s       $end
+$var wire    1  ade  csa_5_2_cin       $end
+$var wire    1  adf  csa_5_2_b       $end
+$var wire    1  adg  csa_5_2_a       $end
+$var wire    1  adh  csa_5_1_so       $end
+$var wire    1  adi  csa_5_1_co       $end
+$var wire    1  adj  csa_5_1_s       $end
+$var wire    1  adk  csa_5_1_cin       $end
+$var wire    1  adl  csa_5_1_b       $end
+$var wire    1  adm  csa_5_1_a       $end
+$var wire    1  adn  csa_5_0_so       $end
+$var wire    1  ado  csa_5_0_co       $end
+$var wire    1  adp  csa_5_0_s       $end
+$var wire    1  adq  csa_5_0_cin       $end
+$var wire    1  adr  csa_5_0_b       $end
+$var wire    1  ads  csa_5_0_a       $end
+$var wire    1  adt  csa_4_7_so       $end
+$var wire    1  adu  csa_4_7_co       $end
+$var wire    1  adv  csa_4_7_s       $end
+$var wire    1  adw  csa_4_7_cin       $end
+$var wire    1  adx  csa_4_7_b       $end
+$var wire    1  ady  csa_4_7_a       $end
+$var wire    1  adz  csa_4_6_so       $end
+$var wire    1  aea  csa_4_6_co       $end
+$var wire    1  aeb  csa_4_6_s       $end
+$var wire    1  aec  csa_4_6_cin       $end
+$var wire    1  aed  csa_4_6_b       $end
+$var wire    1  aee  csa_4_6_a       $end
+$var wire    1  aef  csa_4_5_so       $end
+$var wire    1  aeg  csa_4_5_co       $end
+$var wire    1  aeh  csa_4_5_s       $end
+$var wire    1  aei  csa_4_5_cin       $end
+$var wire    1  aej  csa_4_5_b       $end
+$var wire    1  aek  csa_4_5_a       $end
+$var wire    1  ael  csa_4_4_so       $end
+$var wire    1  aem  csa_4_4_co       $end
+$var wire    1  aen  csa_4_4_s       $end
+$var wire    1  aeo  csa_4_4_cin       $end
+$var wire    1  aep  csa_4_4_b       $end
+$var wire    1  aeq  csa_4_4_a       $end
+$var wire    1  aer  csa_4_3_so       $end
+$var wire    1  aes  csa_4_3_co       $end
+$var wire    1  aet  csa_4_3_s       $end
+$var wire    1  aeu  csa_4_3_cin       $end
+$var wire    1  aev  csa_4_3_b       $end
+$var wire    1  aew  csa_4_3_a       $end
+$var wire    1  aex  csa_4_2_so       $end
+$var wire    1  aey  csa_4_2_co       $end
+$var wire    1  aez  csa_4_2_s       $end
+$var wire    1  afa  csa_4_2_cin       $end
+$var wire    1  afb  csa_4_2_b       $end
+$var wire    1  afc  csa_4_2_a       $end
+$var wire    1  afd  csa_4_1_so       $end
+$var wire    1  afe  csa_4_1_co       $end
+$var wire    1  aff  csa_4_1_s       $end
+$var wire    1  afg  csa_4_1_cin       $end
+$var wire    1  afh  csa_4_1_b       $end
+$var wire    1  afi  csa_4_1_a       $end
+$var wire    1  afj  csa_4_0_so       $end
+$var wire    1  afk  csa_4_0_co       $end
+$var wire    1  afl  csa_4_0_s       $end
+$var wire    1  afm  csa_4_0_cin       $end
+$var wire    1  afn  csa_4_0_b       $end
+$var wire    1  afo  csa_4_0_a       $end
+$var wire    1  afp  csa_3_7_so       $end
+$var wire    1  afq  csa_3_7_co       $end
+$var wire    1  afr  csa_3_7_s       $end
+$var wire    1  afs  csa_3_7_cin       $end
+$var wire    1  aft  csa_3_7_b       $end
+$var wire    1  afu  csa_3_7_a       $end
+$var wire    1  afv  csa_3_6_so       $end
+$var wire    1  afw  csa_3_6_co       $end
+$var wire    1  afx  csa_3_6_s       $end
+$var wire    1  afy  csa_3_6_cin       $end
+$var wire    1  afz  csa_3_6_b       $end
+$var wire    1  aga  csa_3_6_a       $end
+$var wire    1  agb  csa_3_5_so       $end
+$var wire    1  agc  csa_3_5_co       $end
+$var wire    1  agd  csa_3_5_s       $end
+$var wire    1  age  csa_3_5_cin       $end
+$var wire    1  agf  csa_3_5_b       $end
+$var wire    1  agg  csa_3_5_a       $end
+$var wire    1  agh  csa_3_4_so       $end
+$var wire    1  agi  csa_3_4_co       $end
+$var wire    1  agj  csa_3_4_s       $end
+$var wire    1  agk  csa_3_4_cin       $end
+$var wire    1  agl  csa_3_4_b       $end
+$var wire    1  agm  csa_3_4_a       $end
+$var wire    1  agn  csa_3_3_so       $end
+$var wire    1  ago  csa_3_3_co       $end
+$var wire    1  agp  csa_3_3_s       $end
+$var wire    1  agq  csa_3_3_cin       $end
+$var wire    1  agr  csa_3_3_b       $end
+$var wire    1  ags  csa_3_3_a       $end
+$var wire    1  agt  csa_3_2_so       $end
+$var wire    1  agu  csa_3_2_co       $end
+$var wire    1  agv  csa_3_2_s       $end
+$var wire    1  agw  csa_3_2_cin       $end
+$var wire    1  agx  csa_3_2_b       $end
+$var wire    1  agy  csa_3_2_a       $end
+$var wire    1  agz  csa_3_1_so       $end
+$var wire    1  aha  csa_3_1_co       $end
+$var wire    1  ahb  csa_3_1_s       $end
+$var wire    1  ahc  csa_3_1_cin       $end
+$var wire    1  ahd  csa_3_1_b       $end
+$var wire    1  ahe  csa_3_1_a       $end
+$var wire    1  ahf  csa_3_0_so       $end
+$var wire    1  ahg  csa_3_0_co       $end
+$var wire    1  ahh  csa_3_0_s       $end
+$var wire    1  ahi  csa_3_0_cin       $end
+$var wire    1  ahj  csa_3_0_b       $end
+$var wire    1  ahk  csa_3_0_a       $end
+$var wire    1  ahl  csa_2_7_so       $end
+$var wire    1  ahm  csa_2_7_co       $end
+$var wire    1  ahn  csa_2_7_s       $end
+$var wire    1  aho  csa_2_7_cin       $end
+$var wire    1  ahp  csa_2_7_b       $end
+$var wire    1  ahq  csa_2_7_a       $end
+$var wire    1  ahr  csa_2_6_so       $end
+$var wire    1  ahs  csa_2_6_co       $end
+$var wire    1  aht  csa_2_6_s       $end
+$var wire    1  ahu  csa_2_6_cin       $end
+$var wire    1  ahv  csa_2_6_b       $end
+$var wire    1  ahw  csa_2_6_a       $end
+$var wire    1  ahx  csa_2_5_so       $end
+$var wire    1  ahy  csa_2_5_co       $end
+$var wire    1  ahz  csa_2_5_s       $end
+$var wire    1  aia  csa_2_5_cin       $end
+$var wire    1  aib  csa_2_5_b       $end
+$var wire    1  aic  csa_2_5_a       $end
+$var wire    1  aid  csa_2_4_so       $end
+$var wire    1  aie  csa_2_4_co       $end
+$var wire    1  aif  csa_2_4_s       $end
+$var wire    1  aig  csa_2_4_cin       $end
+$var wire    1  aih  csa_2_4_b       $end
+$var wire    1  aii  csa_2_4_a       $end
+$var wire    1  aij  csa_2_3_so       $end
+$var wire    1  aik  csa_2_3_co       $end
+$var wire    1  ail  csa_2_3_s       $end
+$var wire    1  aim  csa_2_3_cin       $end
+$var wire    1  ain  csa_2_3_b       $end
+$var wire    1  aio  csa_2_3_a       $end
+$var wire    1  aip  csa_2_2_so       $end
+$var wire    1  aiq  csa_2_2_co       $end
+$var wire    1  air  csa_2_2_s       $end
+$var wire    1  ais  csa_2_2_cin       $end
+$var wire    1  ait  csa_2_2_b       $end
+$var wire    1  aiu  csa_2_2_a       $end
+$var wire    1  aiv  csa_2_1_so       $end
+$var wire    1  aiw  csa_2_1_co       $end
+$var wire    1  aix  csa_2_1_s       $end
+$var wire    1  aiy  csa_2_1_cin       $end
+$var wire    1  aiz  csa_2_1_b       $end
+$var wire    1  aja  csa_2_1_a       $end
+$var wire    1  ajb  csa_2_0_so       $end
+$var wire    1  ajc  csa_2_0_co       $end
+$var wire    1  ajd  csa_2_0_s       $end
+$var wire    1  aje  csa_2_0_cin       $end
+$var wire    1  ajf  csa_2_0_b       $end
+$var wire    1  ajg  csa_2_0_a       $end
+$var wire    1  ajh  csa_1_7_so       $end
+$var wire    1  aji  csa_1_7_co       $end
+$var wire    1  ajj  csa_1_7_s       $end
+$var wire    1  ajk  csa_1_7_cin       $end
+$var wire    1  ajl  csa_1_7_b       $end
+$var wire    1  ajm  csa_1_7_a       $end
+$var wire    1  ajn  csa_1_6_so       $end
+$var wire    1  ajo  csa_1_6_co       $end
+$var wire    1  ajp  csa_1_6_s       $end
+$var wire    1  ajq  csa_1_6_cin       $end
+$var wire    1  ajr  csa_1_6_b       $end
+$var wire    1  ajs  csa_1_6_a       $end
+$var wire    1  ajt  csa_1_5_so       $end
+$var wire    1  aju  csa_1_5_co       $end
+$var wire    1  ajv  csa_1_5_s       $end
+$var wire    1  ajw  csa_1_5_cin       $end
+$var wire    1  ajx  csa_1_5_b       $end
+$var wire    1  ajy  csa_1_5_a       $end
+$var wire    1  ajz  csa_1_4_so       $end
+$var wire    1  aka  csa_1_4_co       $end
+$var wire    1  akb  csa_1_4_s       $end
+$var wire    1  akc  csa_1_4_cin       $end
+$var wire    1  akd  csa_1_4_b       $end
+$var wire    1  ake  csa_1_4_a       $end
+$var wire    1  akf  csa_1_3_so       $end
+$var wire    1  akg  csa_1_3_co       $end
+$var wire    1  akh  csa_1_3_s       $end
+$var wire    1  aki  csa_1_3_cin       $end
+$var wire    1  akj  csa_1_3_b       $end
+$var wire    1  akk  csa_1_3_a       $end
+$var wire    1  akl  csa_1_2_so       $end
+$var wire    1  akm  csa_1_2_co       $end
+$var wire    1  akn  csa_1_2_s       $end
+$var wire    1  ako  csa_1_2_cin       $end
+$var wire    1  akp  csa_1_2_b       $end
+$var wire    1  akq  csa_1_2_a       $end
+$var wire    1  akr  csa_1_1_so       $end
+$var wire    1  aks  csa_1_1_co       $end
+$var wire    1  akt  csa_1_1_s       $end
+$var wire    1  aku  csa_1_1_cin       $end
+$var wire    1  akv  csa_1_1_b       $end
+$var wire    1  akw  csa_1_1_a       $end
+$var wire    1  akx  csa_1_0_so       $end
+$var wire    1  aky  csa_1_0_co       $end
+$var wire    1  akz  csa_1_0_s       $end
+$var wire    1  ala  csa_1_0_cin       $end
+$var wire    1  alb  csa_1_0_b       $end
+$var wire    1  alc  csa_1_0_a       $end
+$var wire    1  ald  csa_0_7_so       $end
+$var wire    1  ale  csa_0_7_co       $end
+$var wire    1  alf  csa_0_7_s       $end
+$var wire    1  alg  csa_0_7_cin       $end
+$var wire    1  alh  csa_0_7_b       $end
+$var wire    1  ali  csa_0_7_a       $end
+$var wire    1  alj  csa_0_6_so       $end
+$var wire    1  alk  csa_0_6_co       $end
+$var wire    1  all  csa_0_6_s       $end
+$var wire    1  alm  csa_0_6_cin       $end
+$var wire    1  aln  csa_0_6_b       $end
+$var wire    1  alo  csa_0_6_a       $end
+$var wire    1  alp  csa_0_5_so       $end
+$var wire    1  alq  csa_0_5_co       $end
+$var wire    1  alr  csa_0_5_s       $end
+$var wire    1  als  csa_0_5_cin       $end
+$var wire    1  alt  csa_0_5_b       $end
+$var wire    1  alu  csa_0_5_a       $end
+$var wire    1  alv  csa_0_4_so       $end
+$var wire    1  alw  csa_0_4_co       $end
+$var wire    1  alx  csa_0_4_s       $end
+$var wire    1  aly  csa_0_4_cin       $end
+$var wire    1  alz  csa_0_4_b       $end
+$var wire    1  ama  csa_0_4_a       $end
+$var wire    1  amb  csa_0_3_so       $end
+$var wire    1  amc  csa_0_3_co       $end
+$var wire    1  amd  csa_0_3_s       $end
+$var wire    1  ame  csa_0_3_cin       $end
+$var wire    1  amf  csa_0_3_b       $end
+$var wire    1  amg  csa_0_3_a       $end
+$var wire    1  amh  csa_0_2_so       $end
+$var wire    1  ami  csa_0_2_co       $end
+$var wire    1  amj  csa_0_2_s       $end
+$var wire    1  amk  csa_0_2_cin       $end
+$var wire    1  aml  csa_0_2_b       $end
+$var wire    1  amm  csa_0_2_a       $end
+$var wire    1  amn  csa_0_1_so       $end
+$var wire    1  amo  csa_0_1_co       $end
+$var wire    1  amp  csa_0_1_s       $end
+$var wire    1  amq  csa_0_1_cin       $end
+$var wire    1  amr  csa_0_1_b       $end
+$var wire    1  ams  csa_0_1_a       $end
+$var wire    1  amt  csa_0_0_so       $end
+$var wire    1  amu  csa_0_0_co       $end
+$var wire    1  amv  csa_0_0_s       $end
+$var wire    1  amw  csa_0_0_cin       $end
+$var wire    1  amx  csa_0_0_b       $end
+$var wire    1  amy  csa_0_0_a       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+1aaa
+0aab
+0aac
+0aad
+0aae
+0aaf
+1aag
+0aah
+0aai
+0aaj
+0aak
+0aal
+1aam
+1aan
+0aao
+0aap
+0aaq
+1aar
+1aas
+0aat
+0aau
+0aav
+0aaw
+0aax
+1aay
+0aaz
+0aba
+0abb
+0abc
+0abd
+1abe
+1abf
+0abg
+0abh
+0abi
+1abj
+1abk
+1abl
+0abm
+0abn
+0abo
+1abp
+1abq
+0abr
+0abs
+0abt
+0abu
+0abv
+1abw
+0abx
+0aby
+0abz
+0aca
+0acb
+0acc
+0acd
+0ace
+0acf
+0acg
+0ach
+0aci
+0acj
+0ack
+0acl
+0acm
+1acn
+0aco
+0acp
+0acq
+1acr
+0acs
+0act
+0acu
+0acv
+0acw
+0acx
+0acy
+0acz
+0ada
+0adb
+0adc
+0add
+0ade
+1adf
+0adg
+0adh
+0adi
+1adj
+0adk
+1adl
+0adm
+0adn
+0ado
+1adp
+0adq
+0adr
+0ads
+0adt
+0adu
+0adv
+0adw
+0adx
+1ady
+0adz
+0aea
+0aeb
+0aec
+0aed
+1aee
+1aef
+0aeg
+0aeh
+0aei
+1aej
+1aek
+0ael
+0aem
+0aen
+0aeo
+0aep
+1aeq
+0aer
+0aes
+0aet
+0aeu
+0aev
+1aew
+1aex
+0aey
+0aez
+0afa
+1afb
+1afc
+1afd
+0afe
+0aff
+0afg
+1afh
+1afi
+0afj
+0afk
+0afl
+0afm
+0afn
+1afo
+0afp
+0afq
+0afr
+0afs
+0aft
+0afu
+0afv
+0afw
+0afx
+0afy
+0afz
+0aga
+0agb
+0agc
+0agd
+0age
+1agf
+0agg
+0agh
+0agi
+0agj
+0agk
+0agl
+0agm
+0agn
+0ago
+0agp
+0agq
+0agr
+0ags
+0agt
+0agu
+0agv
+0agw
+1agx
+0agy
+0agz
+0aha
+0ahb
+0ahc
+1ahd
+0ahe
+0ahf
+0ahg
+0ahh
+0ahi
+0ahj
+0ahk
+0ahl
+0ahm
+0ahn
+0aho
+0ahp
+0ahq
+0ahr
+0ahs
+0aht
+0ahu
+0ahv
+0ahw
+0ahx
+0ahy
+0ahz
+0aia
+1aib
+0aic
+0aid
+0aie
+1aif
+0aig
+0aih
+0aii
+0aij
+0aik
+0ail
+0aim
+0ain
+0aio
+0aip
+0aiq
+0air
+0ais
+1ait
+0aiu
+0aiv
+0aiw
+1aix
+0aiy
+1aiz
+0aja
+0ajb
+0ajc
+1ajd
+0aje
+0ajf
+0ajg
+0ajh
+0aji
+0ajj
+0ajk
+0ajl
+1ajm
+0ajn
+0ajo
+0ajp
+0ajq
+0ajr
+1ajs
+1ajt
+0aju
+0ajv
+0ajw
+1ajx
+1ajy
+0ajz
+0aka
+0akb
+0akc
+0akd
+1ake
+0akf
+0akg
+0akh
+0aki
+0akj
+1akk
+1akl
+0akm
+0akn
+0ako
+1akp
+1akq
+1akr
+0aks
+0akt
+0aku
+1akv
+1akw
+0akx
+0aky
+0akz
+0ala
+0alb
+1alc
+0ald
+0ale
+0alf
+0alg
+0alh
+0ali
+0alj
+0alk
+0all
+0alm
+0aln
+0alo
+0alp
+0alq
+0alr
+0als
+1alt
+0alu
+0alv
+0alw
+0alx
+0aly
+0alz
+0ama
+0amb
+0amc
+0amd
+0ame
+0amf
+0amg
+0amh
+0ami
+0amj
+0amk
+1aml
+0amm
+0amn
+0amo
+0amp
+0amq
+1amr
+0ams
+0amt
+0amu
+0amv
+0amw
+0amx
+0amy
+$end
+
+#5
+0aaa
+
+#10
+1aaa
+1abb
+1abt
+1acp
+1adh
+1adn
+1agp
+1ahh
+1aid
+1aiv
+1ajb
+
+#15
+0aaa
+
+#20
+1aaa
+1aaz
+1abr
+1aez
+1agn
+1ahf
+
+#25
+0aaa
+
+#30
+1aaa
+1ade
+0adj
+0aex
+1aey
+
+#35
+0aaa
+
+#40
+1aaa
+1abn
+0abt
+1adb
+0adh
+
+#45
+0aaa
+
+#50
+1aaa
+0abl
+1abm
+0abr
+
+#55
+0aaa
+
+#60
+1aaa
+
+#65
+0aaa
+
+#70
+1aaa
+
+#75
+0aaa
+
+#80
+1aaa
+
+#85
+0aaa
+
+#90
+1aaa
+
+#95
+0aaa
+
